@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Begin",
+		"tags": "",
+		"body": "Hai Pecundang\nKamu Baru ya di sini?\nKenalin Saya totored, panggil aja red\nKalau ada apa apa bilang aja, jangan sungkan, Kalau Enggak Ku hajar kau Pecundang!",
+		"position": {
+			"x": 374,
+			"y": 211
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Blue",
+		"tags": "",
+		"body": "Halo Pemuda\nKamu Orang Baru ya\nSalam Kenal Aku Dablue\nsemoga kamu betah di desa ini ya!",
+		"position": {
+			"x": 112,
+			"y": 211
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Green",
+		"tags": "",
+		"body": "OI, Uong mano kau?\nowalah uong baru sini yo\nkenalin namo aku Greenie, Galak di panggil kakcik ijo\nsalam kenal e, moga beta di desa ini",
+		"position": {
+			"x": 324,
+			"y": 161
+		},
+		"colorID": 0
+	}
+]
